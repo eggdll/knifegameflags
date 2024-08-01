@@ -1,1 +1,8 @@
-{}
+{
+  "FFLagTestFlag": "True",
+  "FIntTestInt": 1000,
+  "FStringTestString": "Hello, World!",
+  "DFFLagTestDynamicFlag": true,
+  "DFIntTestDynamicInt": 1001,
+  "DFStringTestDynamicString": "Hello, dynamic World!"
+}
