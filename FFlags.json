@@ -3,6 +3,6 @@
   "FIntTestInt": 1000,
   "FStringTestString": "Hello, World!",
   "DFFLagTestDynamicFlag": true,
-  "DFIntTestDynamicInt": 1001,
+  "DFIntTestDynamicInt": 123,
   "DFStringTestDynamicString": "Hello, dynamic World!"
 }
