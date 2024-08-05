@@ -1,4 +1,5 @@
 {
   "DFFLagKnifeThrowingHasAnimation": true,
-  "DFFLagKnifeStabbingHasAnimation": true
+  "DFFLagKnifeStabbingHasAnimation": true,
+  "MM2Behavior": true
 }
